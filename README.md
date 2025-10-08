@@ -4,8 +4,22 @@ A decentralized system where every person owns their financial cloud.
 ## Big Picture
 YouBankLab is building the next-generation financial system: fully decentralized, privacy-first, and owned by individuals. Instead of banks controlling money and data, each person has their own financial cloud — controlling funds, identity, and privacy, transacting peer-to-peer, and co-governing the system via DAO. Our MVP focuses on identity wallets, private P2P payments, and governance, with the long-term vision of a global network where every individual becomes their own bank.
 
+## Live Beta Demo
+Check out the YouBankLab Beta here: https://youbanklab.base44.app
+
+## Join the Beta Waitlist
+We are inviting the first 1000 early adopters to experience YouBankLab Beta.
+Sign up here: https://www.youbanklab.com/
+
 ## One-Liner
 YouBankLab is building a system where every person becomes their own bank — full control, privacy, and freedom.
+
+
+## Unique Features
+- Community Pulse: see the live activity & mood of the network
+- Smart currency exchange suggestions
+- Personal & Business modes
+- DAO voting & governance directly in-app
 
 ## Problem
 Banks own the money, set the rules, and capture the profits:  
