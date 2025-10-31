@@ -12,7 +12,7 @@ Our MVP focuses on identity wallets, private P2P payments, and governance, with 
 ---
 
 ## 🚀 Live Beta Demo  
-👉 [Check out the YouBankLab Beta here](https://youbanklab.base44.app)
+👉 [Check out the YouBankLab Beta here] https://youbanklab.base44.app
 
 ---
 
