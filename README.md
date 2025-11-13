@@ -78,6 +78,35 @@ Huge overlap with crypto-native, privacy-focused communities.
 
 ---
 
+🧩 New Feature (Beta): Payment Cards
+
+We are introducing a new feature — Payment Cards (Beta) — to demonstrate the readiness of YouBankLab for future integration of virtual and physical cards.
+
+Each user will be able to view and manage cards within their dashboard under Accounts / Wallet.
+Initially, the cards use mock data for demo purposes.
+
+Feature Highlights:
+
+Add and manage virtual or physical cards
+
+Masked card number display (e.g., **** 3456)
+
+Card type (Visa / MasterCard)
+
+Status (Active / Inactive)
+
+“Add New Card” button (coming soon)
+
+Popup card detail view with masked CVV
+
+Goal:
+To visually demonstrate the system’s readiness for card issuance and integrate card management seamlessly into the YouBankLab UI (dark mode / glassmorphism design).
+
+Status: Beta
+Labels: MVP, UI, Beta Feature
+
+---
+
 ## 💰 Business Model  
 - Transaction fees  
 - Premium privacy subscriptions  
