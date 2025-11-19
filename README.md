@@ -172,7 +172,13 @@ This next evolution of YouBankLab merges the best of blockchain, privacy tech, a
 **v1.0 (Next Update)**  
 - Integrating AI-driven personalization layer  
 - Voice assistant prototype under development  
-- Preparing for closed beta with 1,000 testers  
+- Preparing for closed beta with 1,000 testers
+
+- ## Update (Nov 2025)
+- Added Payment Cards (Beta)
+- Introduced Accounting module (specification + UI layout)
+- Improved P2P payments flow
+- Updated Beta demo link with new UI
 
 ---
 
