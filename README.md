@@ -180,6 +180,78 @@ This next evolution of YouBankLab merges the best of blockchain, privacy tech, a
 - Improved P2P payments flow
 - Updated Beta demo link with new UI
 
+Update (Jan 2026)
+
+v0.9 — AI Layer Update
+
+Enhanced transaction understanding
+
+Personalized behavioral analysis
+
+Privacy-first local processing
+
+Unified AI layer across the app
+
+AI Layer Update — Beta Release
+
+Version: v0.9
+Status: Live Beta
+Scope: AI Layer enhancement (no custody, no cloud processing)
+
+What’s new
+
+We’ve introduced an enhanced AI Layer across the YouBankLab beta experience.
+
+This update strengthens how the system understands user behavior, transactions, and financial patterns — without taking control over funds or compromising privacy.
+
+Key improvements
+
+Context-aware financial insights
+The AI now analyzes transaction patterns over time and provides high-level insights (e.g. behavioral changes, spending shifts, anomalies).
+
+Personalized financial understanding
+The system adapts to each user’s individual financial behavior instead of applying generic rules or assumptions.
+
+Privacy-first AI architecture
+All AI processing remains local to the user’s financial environment.
+No transaction data is sent to third-party clouds or external analytics systems.
+
+AI as a system layer, not a feature
+The AI operates as an intelligence layer across the entire app (Wallet, Payments, Accounting, Governance), rather than a standalone tool.
+
+What this update is not
+
+❌ No automated decision-making
+
+❌ No investment advice
+
+❌ No fund custody
+
+❌ No data monetization
+
+The AI provides understanding and insights, while users retain full control over actions and decisions.
+
+Why this matters
+
+YouBankLab is not building “smarter banking features.”
+We are building a personal financial intelligence layer that belongs to the user — aligned with our vision of financial sovereignty, privacy, and decentralization.
+
+This update is a foundational step toward a future where every individual has their own financial brain — fully owned, private, and transparent.
+
+What’s next
+
+Expanded behavioral insights
+
+Long-term pattern recognition
+
+Early-stage predictive signals (non-prescriptive)
+
+Continued focus on privacy-preserving intelligence
+
+🔎 Note for early testers
+
+This AI Layer is actively evolving.
+Feedback from beta users directly informs how insights are shaped and refined.
 ---
 
 ## ⚡️ Summary  
