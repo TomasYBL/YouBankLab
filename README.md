@@ -130,6 +130,18 @@ and every person controls their own financial infrastructure
 One person = one bank.
 One AI = one personal financial brain.
 
+### Competitive Landscape
+
+| Product / Category | AI Insights | Custody of Funds | Decentralized | Personal Financial Intelligence |
+|-------------------|------------|------------------|---------------|----------------------------------|
+| Traditional Banks | ✔️ | ✔️ Bank-owned | ❌ | ❌ Bank-centric |
+| Neobanks (Revolut, N26) | ✔️ | ✔️ Platform-owned | ❌ | ❌ Product-driven |
+| Budgeting Apps (Mint, YNAB, Cleo) | ✔️ | ❌ | ❌ | ⚠️ Generic insights |
+| Crypto Wallets (MetaMask) | ❌ | ❌ User-owned | ✔️ | ❌ No intelligence layer |
+| Identity Projects (Worldcoin, SpruceID) | ❌ | ❌ | ✔️ | ❌ Identity-only |
+| **YouBankLab** | **✔️** | **❌ User-owned** | **✔️** | **⭐ Personal financial brain** |
+
+
 ---
 
 ## ⏰ Why Now  
