@@ -273,3 +273,8 @@ One AI = one personal financial brain.**
 
 YouBankLab isn’t just building a platform — it’s redefining personal finance for the age of decentralization and intelligence.
 
+## Financial Observability
+
+We are exploring a new approach to understanding financial behavior through early signal detection.
+
+→ https://github.com/TomasYBL/financial-observability
